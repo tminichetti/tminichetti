@@ -1,32 +1,38 @@
-# Salut, moi c'est Thomas 👋
+# Thomas Minichetti
 
-Développeur en formation, je construis des projets concrets autour de la **data**, du **machine learning** et du **développement web**.
+**Ingénieur logiciel full-stack & IA.** Je construis des applications web de bout en bout et j'y intègre l'IA quand elle apporte quelque chose.
 
-## 🚀 En ce moment
-- Projets **OpenClassrooms**
-- **Computer Vision** (segmentation d’images)
-- Déploiement d’API avec **Flask** et d’apps avec **Streamlit**
+4 ans chez **Trendex**, startup soutenue par **Y Combinator** (2022 – 2026) : plateforme de trading de cartes, tournois et ligues, version Web3 sur Solana, recherche data en Python, agents IA métiers. Une petite équipe, donc un peu de tout : front, back, base de données, performances, cloud.
 
-## 🛠️ Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+📍 Ajaccio · disponible en télétravail (France / Europe) ou sur place
 
-## 📌 Projets
-- [openclassrooms-projet8](https://github.com/tminichetti/openclassrooms-projet8)
-- [openclassrooms-projet9](https://github.com/tminichetti/openclassrooms-projet9)
-- [openclassrooms-projet7](https://github.com/tminichetti/openclassrooms-projet7)
+## Stack
 
-## 📊 GitHub Stats
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tminichetti&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tminichetti&layout=compact&theme=default)
+- **Langages** : TypeScript, JavaScript, Python
+- **Front-end** : React, Next.js
+- **Back-end** : Node.js, API REST, FastAPI
+- **Données** : MongoDB, Redis, PostgreSQL (Supabase)
+- **IA & data** : API LLM, machine learning, NLP, computer vision, MLflow
+- **Cloud & DevOps** : AWS, GCP, Docker, Vercel
 
-## 📫 Contact
-- GitHub: [@tminichetti](https://github.com/tminichetti)
+## Projets à voir
+
+- **[medinventory](https://github.com/tminichetti/medinventory)** : PWA de gestion de l'armoire à pharmacie familiale. Scan des codes GS1 DataMatrix, péremption suivie boîte par boîte, données de la base publique des médicaments (BDPM). React, TypeScript, Supabase.
+- **[brother-wifi-transfer](https://github.com/tminichetti/brother-wifi-transfer)** : envoi de motifs de broderie vers une machine Brother en WiFi, sur macOS et Windows. Le protocole n'est pas documenté : je l'ai reconstitué par rétro-ingénierie. Rust, TypeScript.
+- **[tweet-sentiment-mlops](https://github.com/tminichetti/tweet-sentiment-mlops)** : analyse de sentiment de tweets, TF-IDF / BiLSTM / BERT comparés, suivi MLflow, API FastAPI dockerisée.
+
+Aussi : [segmentation d'images urbaines (U-Net)](https://github.com/tminichetti/image-segmentation-unet), [pipeline PySpark sur AWS EMR](https://github.com/tminichetti/pyspark-image-pipeline), [recommandation d'articles serverless sur Azure](https://github.com/tminichetti/serverless-article-recommender).
+
+## Formation
+
+Master expert en développement (CESI, 2024) · Expert en data science (OpenClassrooms, 2026)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/thomas-minichetti) · [GitHub](https://github.com/tminichetti)
 
 ---
-Merci pour la visite 🙌
+
+### In English
+
+Full-stack & AI software engineer. 4 years at **Trendex**, a **Y Combinator**-backed startup, building web products end to end (React, Next.js, Node.js, MongoDB) and shipping AI features (LLM APIs, data, ML). Based in Ajaccio, France, open to remote roles (France / Europe). Reach me on [LinkedIn](https://www.linkedin.com/in/thomas-minichetti).
