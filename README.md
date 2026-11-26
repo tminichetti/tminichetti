@@ -29,10 +29,10 @@ Master expert en développement (CESI, 2024) · Expert en data science (OpenClas
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/thomas-minichetti) · [GitHub](https://github.com/tminichetti)
+[minichetti.thomas.pro@gmail.com](mailto:minichetti.thomas.pro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thomas-minichetti) · [GitHub](https://github.com/tminichetti)
 
 ---
 
 ### In English
 
-Full-stack & AI software engineer. 4 years at **Trendex**, a **Y Combinator**-backed startup, building web products end to end (React, Next.js, Node.js, MongoDB) and shipping AI features (LLM APIs, data, ML). Based in Ajaccio, France, open to remote roles (France / Europe). Reach me on [LinkedIn](https://www.linkedin.com/in/thomas-minichetti).
+Full-stack & AI software engineer. 4 years at **Trendex**, a **Y Combinator**-backed startup, building web products end to end (React, Next.js, Node.js, MongoDB) and shipping AI features (LLM APIs, data, ML). Based in Ajaccio, France, open to remote roles (France / Europe). Reach me at [minichetti.thomas.pro@gmail.com](mailto:minichetti.thomas.pro@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/thomas-minichetti).
